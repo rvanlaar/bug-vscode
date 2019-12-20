@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/roland/.local/share/virtualenvs/bug-vscode-wWeRecGf/bin/python",
+    "python.jediEnabled": false,
+    "python.analysis.logLevel": "Trace"
+}
